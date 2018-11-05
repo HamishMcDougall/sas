@@ -29,7 +29,6 @@
 </div>
 
                     @include('billing.card-form')
-
                     <div class="row text-right">
                         <div class="col-md-12">
                             <button class="btn btn-primary" type="submit">Subscribe</button>
